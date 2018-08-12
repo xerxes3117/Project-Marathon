@@ -1,4 +1,4 @@
-# Project-Marathon
+# Projects
 
 1. **Hello World** - Hello World using basic HTML
 
