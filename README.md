@@ -14,4 +14,4 @@
 
 4. **Task manager API** - Task manager api using Node JS with authentication and upload functionality
 
-- [website](https://github.com/xerxes3117/task-manager-api)  |  [github](https://github.com/xerxes3117/task-manager-api)
+- [github](https://github.com/xerxes3117/task-manager-api)
