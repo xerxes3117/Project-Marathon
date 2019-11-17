@@ -10,7 +10,7 @@
 
 3. **Weather App** - Weather app using Node js and darksky, mapbox api 
 
-- [website](https://mead-node-weather-app.herokuapp.com/)  |  [github](https://github.com/xerxes3117/weather-app)
+- [website](https://vsnsi-weather-app.herokuapp.com/)  |  [github](https://github.com/xerxes3117/weather-app)
 
 4. **Task manager API** - Task manager api using Node JS with authentication and upload functionality
 
