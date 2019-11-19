@@ -15,3 +15,9 @@
 4. **Task manager API** - Task manager api using Node JS with authentication and upload functionality
 
 - [github](https://github.com/xerxes3117/task-manager-api)
+
+5. **Chat application** - A chat application using nodeJS and socket.io. Join with your friends and start chatting.
+
+- [website](https://vsnsi-chat-app-nodsoc.herokuapp.com/)  |  [github](https://github.com/xerxes3117/chat-app-nodsoc)
+
+
